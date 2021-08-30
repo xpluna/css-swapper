@@ -1,7 +1,7 @@
 # Custom CSS
 You need a css-link for this, you can get it from [here](https://gg-resources.github.io).
 
-# <br><br>Using Custom-CSS in Browser<br>
+# <hr>Using Custom-CSS in Browser<br>
 Download Python (3.8+) from [here](https://python.org/downloads)
 1. Download the Python CSS-Swapper `main.py` from [here](https://github.com/xpluna/css-swapper)
 2. Run `main.py`
