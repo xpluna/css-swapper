@@ -7,7 +7,7 @@ try:
 
 except ModuleNotFoundError:
 	print("Installing missing module(s)\n")
-	os.sys("pip install requests colorama")
+	os.system("pip install requests colorama")
 	import requests
 	from colorama import init, Fore, Style
 
